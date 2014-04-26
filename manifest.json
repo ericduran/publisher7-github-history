@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Publisher7 Github History Fix",
+  "description": "Allows you to view the previous history in github before the giant git mv.",
+  "version": "1.0",
+  "permissions": [
+    "https://github.com/NBCUOTS/Publisher7/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/NBCUOTS/Publisher7/*"],
+      "js": ["history.js"]
+    }
+  ]
+}
