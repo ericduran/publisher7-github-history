@@ -10,7 +10,7 @@ This chrome extension adds an extra "Publisher History" btn that rewrites the ur
 to the history log before the "GREAM MOVE". Now you have your history back.
 
 Preview:
-![publisher-history](https://www.dropbox.com/s/hk8nxcw9ok1gdtj/publisher-history.png)
+![publisher-history](https://dl.dropboxusercontent.com/u/16395906/publisher-history.png)
 
 ##Installation:
 1. git clone git@github.com:ericduran/publisher7-github-history.git
