@@ -7,7 +7,7 @@ In the terminal this is simple to fix, git log --follow files/path/for/history.j
 Sadly the history button on github is now useless before the GREAT MOVE.
 
 This chrome extension adds an extra "Publisher History" btn that rewrites the urls
-to the history log before the "GREAM MOVE". Now you have your history back.
+to the history log before the "GREAT MOVE". Now you have your history back.
 
 Preview:
 ![publisher-history](https://dl.dropboxusercontent.com/u/16395906/publisher-history.png)
